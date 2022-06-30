@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Tenzies-game/static/css/main.69570029.css",
-    "main.js": "/Tenzies-game/static/js/main.5dbae20f.js",
+    "main.js": "/Tenzies-game/static/js/main.4b90a6f2.js",
     "static/media/line.png": "/Tenzies-game/static/media/line.63e074419be4ea0e14dd.png",
     "static/media/Sprinkle.svg": "/Tenzies-game/static/media/Sprinkle.5f544457ae387adc5cba.svg",
     "index.html": "/Tenzies-game/index.html",
     "main.69570029.css.map": "/Tenzies-game/static/css/main.69570029.css.map",
-    "main.5dbae20f.js.map": "/Tenzies-game/static/js/main.5dbae20f.js.map"
+    "main.4b90a6f2.js.map": "/Tenzies-game/static/js/main.4b90a6f2.js.map"
   },
   "entrypoints": [
     "static/css/main.69570029.css",
-    "static/js/main.5dbae20f.js"
+    "static/js/main.4b90a6f2.js"
   ]
 }
